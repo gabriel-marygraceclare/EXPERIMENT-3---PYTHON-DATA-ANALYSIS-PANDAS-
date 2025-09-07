@@ -6,7 +6,7 @@
 ### a) Load the corresponding .csv file into a data frame named cars using pandas
 ### b) Display the first five and last five rows of the resulting cars.
 
-### Link: 
+### Link: https://github.com/gabriel-marygraceclare/EXPERIMENT-3---PYTHON-DATA-ANALYSIS-PANDAS-/blob/main/Gabriel_Pandas-P1.py.ipynb
 
 ### 1. I started with importing the pandas library as pd.
 ```python
