@@ -36,7 +36,7 @@ cars.tail()
 ### d)  Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4
 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
 
-### Link: 
+### Link: https://github.com/gabriel-marygraceclare/EXPERIMENT-3---PYTHON-DATA-ANALYSIS-PANDAS-/blob/main/Gabriel_Pandas-P2.ipynb
 
 ### 1. I started with importing the pandas library as pd.
 ```python
