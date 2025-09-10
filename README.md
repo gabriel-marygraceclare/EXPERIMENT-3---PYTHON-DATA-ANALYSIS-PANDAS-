@@ -7,6 +7,7 @@
 ### b) Display the first five and last five rows of the resulting cars.
 
 ### Link: https://github.com/gabriel-marygraceclare/EXPERIMENT-3---PYTHON-DATA-ANALYSIS-PANDAS-/blob/main/Gabriel_Pandas-P1.ipynb
+### saved file as .py link: https://github.com/gabriel-marygraceclare/EXPERIMENT-3---PYTHON-DATA-ANALYSIS-PANDAS-/blob/main/Gabriel_Pandas-P1.py
 ### 1. I started with importing the pandas library as pd.
 ```python
 import pandas as pd
@@ -37,6 +38,7 @@ cars.tail()
 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
 
 ### Link: https://github.com/gabriel-marygraceclare/EXPERIMENT-3---PYTHON-DATA-ANALYSIS-PANDAS-/blob/main/Gabriel_Pandas-P2.ipynb
+### saved file as py link: https://github.com/gabriel-marygraceclare/EXPERIMENT-3---PYTHON-DATA-ANALYSIS-PANDAS-/blob/main/Gabriel_Pandas-P2.py
 
 ### 1. I started with importing the pandas library as pd.
 ```python
